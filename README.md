@@ -22,7 +22,7 @@ What is [Github](https://en.wikipedia.org/wiki/GitHub)?
 
 In this exercise you should will:
 
-- [ ] [Create a Github Account](# 1. Create a Github Account)
+- [ ] [Create a Github Account](# 1.-create-a-github-account)
 - [ ] Make your first repository for your user site
   - [ ] Make your first commit
   - [ ] Build a starter user site
