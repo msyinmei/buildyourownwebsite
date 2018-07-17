@@ -1,8 +1,9 @@
 # Build Your First Website
 
-Step-by-step directions for how to make your own website(s) and host it for free on Github! Originally designed as an exercise for the [CS4CS K12 STEM Program, NYU](http://engineering.nyu.edu/k12stem/cs4cs/). 
+Step-by-step directions for how to make your own website(s) and host it for free on Github!
+Originally designed as an exercise for the [CS4CS K12 STEM Program, NYU](http://engineering.nyu.edu/k12stem/cs4cs/). 
 
-*** Where indicated below, replace anything withint brackets with your own input. 
+Where indicated below, replace [anything within brackets] with your own input. 
 
 ## Introduction: 
 
@@ -33,8 +34,8 @@ In this exercise you should will:
 - [ ] Use some basic HTML, CSS and JS tools:
   - [ ] HTML templates
   - [ ] CSS basics
-  - [ ] Learn Markdown (for your README.md)
-  - [ ] CSS toolkits: Bootstrap, Flexbox...
+  - [ ] Learn [Markdown](https://daringfireball.net/projects/markdown/basics) (for your README.md)
+  - [ ] CSS toolkits: [Bootstrap](https://getbootstrap.com/), [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)...
 
 For those of you who have finished this first step, here is an extra challenge:
 
