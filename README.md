@@ -57,7 +57,8 @@ Get a Github Account
 # 2. Build a Personal Website
 
   (aka your about me website or username.github.io)
-  ###Step One: Create Your First Repository 
+
+  ### Step One: Create Your First Repository 
 
     1. On the homepage of Github, click "new repository"
     2. Create this new repository by using `<your_username>.github.io` as the name of your repository. My username is msyinmei so I named my user site repository "msyinmei.github.io"
@@ -65,7 +66,7 @@ Get a Github Account
     4. Select " *Initialize this repository with a README* ""
     5. Click " *Create Repository* ""
 
-###Step Two: Make Your First Commit
+### Step Two: Make Your First Commit
   1. You can follow the directions on the official Github page on [how to make your first commit](https://help.github.com/articles/create-a-repo/#commit-your-first-change). 
   
   OR
@@ -82,16 +83,20 @@ Get a Github Account
   9. Change directories into the  "<your_username>.github.io" directory with the command `cd <your_username>.github.io` 
   10. Make a file called index.html with the command `touch index.html`
   11. In this file, type `<h1>Hello World <h1>`
-  12. Save the file, then back in your terminal type:
-      `git status`
-      `git add .`
-      `git commit -m"this is my first commit"` 
-      `git push origin master`
+  12. Save the file, then back in your terminal type the following: (https://try.github.io/)
+      
+      ````sh
+      git status
+      git add .
+      git commit -m"this is my first commit" 
+      git push origin master
+      ```
+      
   13. When prompted for your password, type it in.
   Now, open up your website to "<your_username>.github.io" 
   Congratulations! You have a website!
 
-###Step Three: Build Your User Site
+### Step Three: Build Your User Site
 1. Enforce HTTPS for your Github Page: https://help.github.com/articles/securing-your-github-pages-site-with-https/
 2. Choose one of the following templates for your website to use in your index.html file: 
 https://www.w3schools.com/bootstrap/bootstrap_templates.asp 
