@@ -1,7 +1,9 @@
-#Build Your First Website
+# Build Your First Website
+
 Step-by-step directions for how to make your own website(s) and host it for free on Github! Originally designed as an exercise for the [CS4CS K12 STEM Program, NYU](http://engineering.nyu.edu/k12stem/cs4cs/). 
 
-##Goals:
+## Goals:
+
 In this exercise you should will:
 
 - [ ] [Create a Github Account](##Part One)
@@ -24,7 +26,8 @@ here is an extra challenge:
   - [ ] Build a site for your first project 
   - Example: msyinmei.github.io/buildyourownwebsite
 
-##Introduction: 
+## Introduction: 
+
 What is a [Website](https://en.wikipedia.org/wiki/Website)? 
 
 - A website is a location connected to the Internet that maintains one or more pages on the World Wide Web. 
@@ -38,15 +41,18 @@ What is [Github](https://en.wikipedia.org/wiki/GitHub)?
   1) One site per account (msyinmei.github.io)
   2) Unlimited project sites (msyinmei.github.io/buildyourownwebsite)
 
-#1. Create a Github Account
+# 1. Create a Github Account
+
 Get a Github Account
 
-#2. Make your first repository
+# 2. Make your first repository
+
 Create Your First Repository 
 (aka your about me website or username.github.io)
 
-#3. Make your first commit
+# 3. Make your first commit
+
 Create Your Second Repository
 (aka username.github.io/myfirstproject)
 
-#4. Build your user site
+# 4. Build your user site
