@@ -2,30 +2,6 @@
 
 Step-by-step directions for how to make your own website(s) and host it for free on Github! Originally designed as an exercise for the [CS4CS K12 STEM Program, NYU](http://engineering.nyu.edu/k12stem/cs4cs/). 
 
-## Goals:
-
-In this exercise you should will:
-
-- [ ] [Create a Github Account](##Part One)
-- [ ] Make your first repository for your user site
-  - [ ] Make your first commit
-  - [ ] Build a starter user site
-  - Example: msyinmei.github.io
-- [ ] Use some basic HTML, CSS and JS tools:
-  - [ ] HTML templates
-  - [ ] CSS basics
-  - [ ] JS basics
-  - [ ] Learn Markdown (for your README.md)
-  - [ ] CSS toolkits: Bootstrap, Flexbox...
-
-For those of you who have finished this first step,
-here is an extra challenge:
-
-- [ ] Make another repository for your first project
-  - [ ] Make your first commit
-  - [ ] Build a site for your first project 
-  - Example: msyinmei.github.io/buildyourownwebsite
-
 ## Introduction: 
 
 What is a [Website](https://en.wikipedia.org/wiki/Website)? 
@@ -40,6 +16,31 @@ What is [Github](https://en.wikipedia.org/wiki/GitHub)?
 - Github also allows you to host one site per account
   1) One site per account (msyinmei.github.io)
   2) Unlimited project sites (msyinmei.github.io/buildyourownwebsite)
+
+
+## Goals Checklist:
+
+In this exercise you should will:
+
+- [ ] [Create a Github Account](# 1. Create a Github Account)
+- [ ] Make your first repository for your user site
+  - [ ] Make your first commit
+  - [ ] Build a starter user site
+  - Example: msyinmei.github.io
+- [ ] Use some basic HTML, CSS and JS tools:
+  - [ ] HTML templates
+  - [ ] CSS basics
+  - [ ] JS basics
+  - [ ] Learn Markdown (for your README.md)
+  - [ ] CSS toolkits: Bootstrap, Flexbox...
+
+For those of you who have finished this first step, here is an extra challenge:
+
+- [ ] Make another repository for your first project
+  - [ ] Make your first commit
+  - [ ] Build a site for your first project 
+  - Example: msyinmei.github.io/buildyourownwebsite
+
 
 # 1. Create a Github Account
 
