@@ -39,8 +39,8 @@ In this exercise you should will:
 
 For those of you who have finished this first step, here is an extra challenge:
 
-- [ ] Make another repository for your first project
-  - [ ] Make your first commit
+- [ ] [Build a Project Site](#3-build-a-project-website)
+  - [ ] Make your repository for your project site
   - [ ] Build a site for your first project 
   - Example: msyinmei.github.io/buildyourownwebsite
 
