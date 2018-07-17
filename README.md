@@ -1,5 +1,5 @@
 # Build Your Own Website
-
+www.github.com/msyinmei/buildyourownwebsite 
 Step-by-step directions for how to make your own website(s) and host it for free on Github!
 Originally designed as an exercise for the [CS4CS K12 STEM Program, NYU](http://engineering.nyu.edu/k12stem/cs4cs/). 
 
