@@ -25,15 +25,14 @@ What is [Github](https://en.wikipedia.org/wiki/GitHub)?
 In this exercise you should will:
 
 - [ ] [Create a Github Account](#1-create-a-github-account)
-- [ ] Build a personal website
-  - [ ]Make your first repository for your user site
-  - [ ] Make your first commit
-  - [ ] Build a starter user site
+- [ ] [Build a Personal Website](#2-build-a-personal-website)
+  - [ ] [Make your first repository for your user site](#step-one-create-your-first-repository)
+  - [ ] [Make your first commit](#step-two-make-your-first-commit)
+  - [ ] [Build a starter user site](#step-three-build-your-user-site)
   - Example: msyinmei.github.io
 - [ ] Use some basic HTML, CSS and JS tools:
   - [ ] HTML templates
   - [ ] CSS basics
-  - [ ] JS basics
   - [ ] Learn Markdown (for your README.md)
   - [ ] CSS toolkits: Bootstrap, Flexbox...
 
@@ -85,13 +84,12 @@ Get a Github Account
   11. In this file, type `<h1>Hello World <h1>`
   12. Save the file, then back in your terminal type the following: (https://try.github.io/)
       
-      ````sh
+      ```sh
       git status
       git add .
       git commit -m"this is my first commit" 
       git push origin master
       ```
-      
   13. When prompted for your password, type it in.
   Now, open up your website to "<your_username>.github.io" 
   Congratulations! You have a website!
@@ -105,7 +103,7 @@ https://www.w3schools.com/bootstrap/bootstrap_templates.asp
   https://www.codecademy.com/learn/learn-html
 4. Learn more about Bootstrap: https://getbootstrap.com/
 5. Learn about Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
-6. Add a photo to your website. 
+6. Add an image file to your website. 
 
 # 3. Build a Project Website
 (aka username.github.io/myfirstproject)
