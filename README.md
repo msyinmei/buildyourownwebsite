@@ -59,12 +59,11 @@ Get a Github Account
   (aka your about me website or username.github.io)
 
   ### Step One: Create Your First Repository 
-
-    1. On the homepage of Github, click "new repository"
-    2. Create this new repository by using `<your_username>.github.io` as the name of your repository. My username is msyinmei so I named my user site repository "msyinmei.github.io"
-    3. Decide if you are creating a *public* or a *private* repository
-    4. Select " *Initialize this repository with a README* ""
-    5. Click " *Create Repository* ""
+  1. On the homepage of Github, click "new repository"
+  2. Create this new repository by using `<your_username>.github.io` as the name of your repository. My username is msyinmei so I named my user site repository "msyinmei.github.io"
+  3. Decide if you are creating a *public* or a *private* repository
+  4. Select " *Initialize this repository with a README* ""
+  5. Click " *Create Repository* ""
 
 ### Step Two: Make Your First Commit
   1. You can follow the directions on the official Github page on [how to make your first commit](https://help.github.com/articles/create-a-repo/#commit-your-first-change). 
