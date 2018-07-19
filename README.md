@@ -98,7 +98,7 @@ Congratulations! You have a website!
 1. Enforce HTTPS for your Github Page: https://help.github.com/articles/securing-your-github-pages-site-with-https/
 2. Choose one of the following templates for your website to use in your index.html file: 
 https://www.w3schools.com/bootstrap/bootstrap_templates.asp 
-3. Learn more about HTML, CSS: 
+3. Learn more about HTML, CSS and create an accompanying styles.css file: 
   https://www.w3schools.com/html/html_css.asp 
   https://www.codecademy.com/learn/learn-html
 4. Learn more about Bootstrap: https://getbootstrap.com/
