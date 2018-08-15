@@ -103,7 +103,7 @@ https://www.w3schools.com/bootstrap/bootstrap_templates.asp
   https://www.codecademy.com/learn/learn-html
 4. Learn more about Bootstrap: https://getbootstrap.com/
 5. Learn about Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
-6. Add an image file to your website. 
+6. Add an image file to your website.
 
 # 3. Build a Project Website
 (aka username.github.io/myfirstproject)
